@@ -1,2 +1,9 @@
 ---
 BUNDLE_PATH: "vendor/bundle"
+title: Testing my website title
+email: jrostaggs@icloud.com
+url: "https://Jrostaggs97.github.io"
+
+#build settings
+markdown: kramdown
+theme: jekylly-theme-minima
