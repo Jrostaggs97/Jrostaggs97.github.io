@@ -2,6 +2,7 @@
 BUNDLE_PATH: "vendor/bundle"
 title: Testing my website title
 email: jrostaggs@icloud.com
+baseurl: ""
 url: "https://Jrostaggs97.github.io"
 
 #build settings
