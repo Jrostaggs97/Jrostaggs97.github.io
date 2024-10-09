@@ -32,18 +32,18 @@ checking for RB_WARN_CATEGORY_DEPRECATED in ruby.h... yes
 creating Makefile
 
 current directory: C:/Users/jrost/Documents/Github_website/Jrostaggs97.github.io/vendor/bundle/ruby/3.3.0/gems/bigdecimal-3.1.8/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20241008-12968-f2r6c7 sitelibdir\=./.gem.20241008-12968-f2r6c7 clean
+make DESTDIR\= sitearchdir\=./.gem.20241008-7824-w28snv sitelibdir\=./.gem.20241008-7824-w28snv clean
 
 current directory: C:/Users/jrost/Documents/Github_website/Jrostaggs97.github.io/vendor/bundle/ruby/3.3.0/gems/bigdecimal-3.1.8/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20241008-12968-f2r6c7 sitelibdir\=./.gem.20241008-12968-f2r6c7
+make DESTDIR\= sitearchdir\=./.gem.20241008-7824-w28snv sitelibdir\=./.gem.20241008-7824-w28snv
 generating bigdecimal-x64-mingw-ucrt.def
 compiling bigdecimal.c
 compiling missing.c
 linking shared-object bigdecimal.so
 
 current directory: C:/Users/jrost/Documents/Github_website/Jrostaggs97.github.io/vendor/bundle/ruby/3.3.0/gems/bigdecimal-3.1.8/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20241008-12968-f2r6c7 sitelibdir\=./.gem.20241008-12968-f2r6c7 install
-/usr/bin/install -c -m 0755 bigdecimal.so ./.gem.20241008-12968-f2r6c7
+make DESTDIR\= sitearchdir\=./.gem.20241008-7824-w28snv sitelibdir\=./.gem.20241008-7824-w28snv install
+/usr/bin/install -c -m 0755 bigdecimal.so ./.gem.20241008-7824-w28snv
 
 current directory: C:/Users/jrost/Documents/Github_website/Jrostaggs97.github.io/vendor/bundle/ruby/3.3.0/gems/bigdecimal-3.1.8/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20241008-12968-f2r6c7 sitelibdir\=./.gem.20241008-12968-f2r6c7 clean
+make DESTDIR\= sitearchdir\=./.gem.20241008-7824-w28snv sitelibdir\=./.gem.20241008-7824-w28snv clean

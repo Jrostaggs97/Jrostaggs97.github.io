@@ -3,18 +3,18 @@ C:/Ruby33-x64/bin/ruby.exe extconf.rb
 creating Makefile
 
 current directory: C:/Users/jrost/Documents/Github_website/Jrostaggs97.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-make DESTDIR\= sitearchdir\=./.gem.20241008-12968-eqs0ju sitelibdir\=./.gem.20241008-12968-eqs0ju clean
+make DESTDIR\= sitearchdir\=./.gem.20241008-7824-s8kwug sitelibdir\=./.gem.20241008-7824-s8kwug clean
 
 current directory: C:/Users/jrost/Documents/Github_website/Jrostaggs97.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-make DESTDIR\= sitearchdir\=./.gem.20241008-12968-eqs0ju sitelibdir\=./.gem.20241008-12968-eqs0ju
+make DESTDIR\= sitearchdir\=./.gem.20241008-7824-s8kwug sitelibdir\=./.gem.20241008-7824-s8kwug
 generating ruby_http_parser-x64-mingw-ucrt.def
 compiling ruby_http_parser.c
 compiling ryah_http_parser.c
 linking shared-object ruby_http_parser.so
 
 current directory: C:/Users/jrost/Documents/Github_website/Jrostaggs97.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-make DESTDIR\= sitearchdir\=./.gem.20241008-12968-eqs0ju sitelibdir\=./.gem.20241008-12968-eqs0ju install
-/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20241008-12968-eqs0ju
+make DESTDIR\= sitearchdir\=./.gem.20241008-7824-s8kwug sitelibdir\=./.gem.20241008-7824-s8kwug install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20241008-7824-s8kwug
 
 current directory: C:/Users/jrost/Documents/Github_website/Jrostaggs97.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-make DESTDIR\= sitearchdir\=./.gem.20241008-12968-eqs0ju sitelibdir\=./.gem.20241008-12968-eqs0ju clean
+make DESTDIR\= sitearchdir\=./.gem.20241008-7824-s8kwug sitelibdir\=./.gem.20241008-7824-s8kwug clean
