@@ -8,7 +8,7 @@ layout: default
 <div id="twosided">
 <div id="left" style="float: left; max-width: 30%;border: 10px"> 
     <img src="images/prof_pic.jpg" />
-> testing this caption
+> Kayaking on Lady Bird Lake in Austin, TX
 
 </div>
 <div id="right" style="float: right; width: 65%; vertical-align: middle;">
@@ -20,9 +20,9 @@ layout: default
 </div>
 <div id="clearer" style="clear: both"> </div>
 
-I am a current PhD student in [University of Texas at Austin](http://utexas.edu). I obtained my B.S. in Mathematics at UT Austin and my M.S. in Computational and Applied Mathematics at the [University of Washginton](https://amath.washington.edu/). <br>
+I am a current PhD student in the [Oden Institute](https://oden.utexas.edu) at the [University of Texas at Austin](http://utexas.edu). My research is broadly in mathematical and theoretical ecology. I obtained my B.S. in Mathematics at UT Austin and my M.S. in Computational and Applied Mathematics at the [University of Washginton](https://amath.washington.edu/). <br>
 
-I enjoy lap swimming, alternative keyboard layouts, and Texas football.<br>
+I enjoy cooking, lap swimming, alternative keyboard layouts, and Texas football.<br>
 
 
 
