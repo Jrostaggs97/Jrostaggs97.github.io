@@ -4,8 +4,8 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  $header-heading-color: #333;
-  $header-bg-color: #333; 
+  $header-heading-color: #000000;
+  $header-bg-color: #000000; 
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
