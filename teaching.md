@@ -4,6 +4,7 @@ layout: default
 ---
 
 ### The University of Texas at Austin
+- M408Q: Differential Calculus for Business (Teaching Assistant, **Spring 2025**)
 - M408N: Differential Calculus for Life Sciences (Teaching Assistant, **Fall 2024**)
 - BIO 437/384K: Mathematical Modeling in Biology (Teaching Assistant, **Spring 2024**)
 - M408Q: Differential Calculus for Business (Teaching Assistant, **Fall 2023**)

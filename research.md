@@ -15,7 +15,7 @@ I am interested in the ecological dynamics that promote species coexistence, par
 
 Abstract: A mechanistic understanding of species coexistence remains a significant challenge in ecological theory. Classical forest ecology hypotheses suggest that disturbances and patch dynamics enable coexistence among species with various life history strategies, termed "successional niche" differentiation. However, prior mathematical models have not fully delineated how variations in life history strategies can promote coexistence under disturbance and succession. We extend a PDE model that includes explicit patch aging, disturbances, and within-patch competition, by incorporating the age of reproductive maturity as a key trait. We find several trade-offs involving traits associated with reproduction and mortality. We also find species abundance patterns that differentiate these mechanisms from classical succession. We use ForestGEO plot data from BCI to look for empirical evidence of these trade-offs.
 
-Poster PDF: (Poster Presentation at STRI's BCI 100 Year Symposium in May 2024 and Mathematical Models in Ecology and Evolution in June 2024)
+<a href="https://Jrostaggs97.github.io/files/Life_History_Strategies_in_an_Explicit_Patch_Age_Model_J__Staggs.pdf" target="_blank">Poster PDF Here.</a> (Poster Presentation at STRI's BCI 100 Year Symposium in May 2024 and Mathematical Models in Ecology and Evolution in June 2024)
 
 ### A Framework for Stochastic, Size-structured Neutral Model for Community Assemby 
 - K. Zhang, J. Staggs, A. Ostling
@@ -32,5 +32,5 @@ improved size-structured NBT and found its solution. Work in progress is to use 
 Species Abundance Distribution (SAD) and Species Biomass Distribution (SBD), i.e. the distributions describing how many rare vs common species there are when abundance is measured
 on the basis of the number of individuals and total biomass across individuals respectively
 
-Poster PDF: (Poster Presentation at the 8th meeting of the International Conference on Analysis of Biological Systems in October 2022)
+<a href="https://Jrostaggs97.github.io/files/Oden_Poster_function_details (2).pdf" target="_blank">Poster PDF Here.</a> Poster PDF: (Poster Presentation at the 8th meeting of the International Conference on Analysis of Biological Systems in October 2022)
 
